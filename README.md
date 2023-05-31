@@ -27,9 +27,9 @@ A project template with ready README file and and created files for liters confi
 
 | Desktop Veiw Representation|
 |---------------------------------------|
-|<div align="center"><img src="./src/assets/desktop-shot.PNG" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./src/assets/desktop-shot2.PNG" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./src/assets/desktop-shot3.PNG" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./project-image" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./project-image" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./project-image" alt="screenshot" width="auto" height="auto"/></div>|
 
 <!-- TABLE OF CONTENTS -->
 
@@ -57,9 +57,9 @@ A project template with ready README file and and created files for liters confi
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 [Template] <a name="about-project"></a>
 
-> **[Math Magicians]** is a website for mathematics fans. It is a Single Page App (SPA) that allows users to make simple calculations and read a random design-related quote.
+> **[Temaplate]** ...........................................................................
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -110,7 +110,7 @@ Clone this repository to your desired folder:
 - Use the following Commands:
 
       cd your-desired-folder
-      git clone git@github.com:ab-noori/math-magicians.git
+      git clone git@github.com:ab-noori/template.git
 
 
 ### Install
@@ -168,7 +168,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ab-noori/math-magicians/issues).
+Feel free to check the [issues page](#).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +182,7 @@ Feel free to check the [issues page](https://github.com/ab-noori/math-magicians/
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-  I would like to thank Microverse and my coding partners, and a Micronaut, Miss [`Kanza Tahreem`](https://github.com/KanzaTahreem), she has done amazing projects, I inspired from her project for this project. also I want to give credit to [`Nerd's lesson`](https://www.youtube.com/@Nerdslesson)
+  I would like to thank Microverse and my coding partners. Also I want to give credit to [`Nerd's lesson`](https://www.youtube.com/@Nerdslesson)
 YouTub Channel, it's [`react tutorial`](https://www.youtube.com/watch?v=cd3P3yXyx30) is really helpfull.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
