@@ -27,9 +27,9 @@ A project template with ready README file and and created files for liters confi
 
 | Desktop Veiw Representation|
 |---------------------------------------|
-|<div align="center"><img src="./project-image" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./project-image" alt="screenshot" width="auto" height="auto"/></div>|
-|<div align="center"><img src="./project-image" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
+|<div align="center"><img src="./project-image.png" alt="screenshot" width="auto" height="auto"/></div>|
 
 <!-- TABLE OF CONTENTS -->
 
