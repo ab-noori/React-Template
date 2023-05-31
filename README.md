@@ -1,5 +1,3 @@
-# React-Template
-A project template with ready README file and and created files for liters configurations. 
 <a name="readme-top"></a>
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
@@ -23,7 +21,7 @@ A project template with ready README file and and created files for liters confi
 
 -->
 
-> # Math Magicians
+> # Template
 
 | Desktop Veiw Representation|
 |---------------------------------------|
@@ -59,7 +57,7 @@ A project template with ready README file and and created files for liters confi
 
 # 📖 [Template] <a name="about-project"></a>
 
-> **[Temaplate]** ...........................................................................
+> **[Temaplate]** is a project template with ready README file and and created files for liters configurations. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
