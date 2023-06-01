@@ -57,7 +57,7 @@
 
 # 📖 [Template] <a name="about-project"></a>
 
-> **[Temaplate]** is a project template with ready README file and and created files for liters configurations. 
+> **[Temaplate]** is a project template with ready README file for creating react applications.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
