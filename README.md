@@ -136,13 +136,23 @@ Clone this repository to your desired folder:
       npx stylelint "**/*.{css,scss}"
       npx stylelint "**/*.{css,scss}" --fix
  
-
-
 ### Deployment
-- You can deploy this project using:
+- 1- install `'gh-pages'` with following command:
 
-      npm run build
-      gh-pages -d build
+      npm i -D gh-pages
+
+- 2- Add `'homepage'` to project's jason file:
+
+      "homepage": "https://ab-noori.github.oi/repo-name",
+
+- 3- Add the following scripts to project's jason file:
+
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build "
+
+- 4- Finally run the following command:
+
+      npm run deploy
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
