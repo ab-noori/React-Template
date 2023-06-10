@@ -143,7 +143,7 @@ Clone this repository to your desired folder:
 
 - 2- Add `'homepage'` to project's jason file:
 
-      "homepage": "https://ab-noori.github.oi/repo-name",
+      "homepage": "https://ab-noori.github.io/repo-name",
 
 - 3- Add the following scripts to project's jason file:
 
