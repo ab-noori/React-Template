@@ -7,9 +7,9 @@
 
 </div>
 
-<!-- Open pull request using the following structure
+<!-- Open a pull request using the following structure
 
-## Pronject Title: Branch title.............
+## Project Title: Branch title.............
 
 ### 🌟Features:
 
@@ -59,7 +59,7 @@
 
 # 📖 [Template] <a name="about-project"></a>
 
-> **[Temaplate]** is a project template with ready README file for creating react applications.  
+> **[Temaplate]** is a project template with a ready README file for creating react applications.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -122,7 +122,7 @@ Clone this repository to your desired folder:
 
 
 ### Usage
-- Use following commands to run on your local system:
+- Use the following commands to run the project on your local system:
 
       npm run build
       npm run deploy
@@ -145,10 +145,10 @@ Clone this repository to your desired folder:
 
       "homepage": "https://ab-noori.github.io/repo-name",
 
-- 3- Add the following scripts to project's jason file:
+- 3- Add the following scripts to the project's Jason file:
 
       "predeploy": "npm run build",
-      "deploy": "gh-pages -d build "
+      "deploy": "gh-pages -d build ",
 
 - 4- Finally run the following command:
 
